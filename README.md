@@ -1,5 +1,5 @@
 ﻿# PROH-practice-1
-Asignatura de Programación Hipermedia dentro del grado de Ingeniería Multimedia por la ETSE (Escuela Técnica Superior de Enginiería) - Universitat de València. Febrero - marzo 2023. Calificación 10.
+Asignatura de Programación Hipermedia dentro del grado de Ingeniería Multimedia por la ETSE (Escuela Técnica Superior de Enginiería) - Universitat de València. Febrero - marzo 2023. Práctica 1. Calificación 10.
 
 El objetivo de esta práctica es la creación del sitio web de una empresa con actividad comercial a través de Internet (venta online), así como las páginas que permiten la administración del sitio. Para ello se utilizarán los conocimientos y técnicas adquiridas en la parte de teoría sobre HTML5, hojas de estilo CSS y Javascript.
 
